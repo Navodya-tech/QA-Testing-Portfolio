@@ -6,13 +6,22 @@ Scope: User Side Testing
 Version: 1.0  
 Tester: Navodya  
 
+---
+
+## Test Environment
+- Browser: Chrome
+- Version: Version 149.0.7827.115 (Official Build) (64-bit)
+- Device: Desktop 
+- OS: Windows 10
+- Environment: Public demo site
+
 Application URL: https://www.saucedemo.com/
 
 ---
 
 ## Scope
 
-In Scope:
+### ✔ In Scope:
 - Login / Logout
 - Product listing
 - Product details
@@ -20,7 +29,9 @@ In Scope:
 - Cart functionality
 - Checkout process
 
-Out of Scope:
+---
+
+### ❌ Out of Scope:
 - Backend testing
 - Database validation
 - Performance testing
@@ -33,15 +44,6 @@ Out of Scope:
 - Smoke Testing
 - Functional Testing
 - UI Testing
-- Exploratory Testing
-
----
-
-## Test Environment
-- Browser: Chrome (latest)
-- Device: Desktop / Mobile
-- OS: Windows / Android
-- Environment: Public demo site
 
 ---
 
