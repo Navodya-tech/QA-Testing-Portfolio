@@ -10,7 +10,7 @@ Tester: Navodya
 
 ## Test Environment
 
-- Browser: Google Chrome / Microsoft Edge  
+- Browser: Google Chrome  
 - Version: 149.0.7827.115 (Official Build) (64-bit) 
 - Device: Desktop / Laptop  
 - OS: Windows 10  
