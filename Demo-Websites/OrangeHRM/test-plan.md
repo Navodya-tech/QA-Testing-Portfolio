@@ -12,7 +12,7 @@ Tester: Navodya
 
 - Browser: Google Chrome  
 - Version: 149.0.7827.156 (64-bit)
-- Device: Desktop / Laptop  
+- Device: Desktop  
 - OS: Windows 10  
 - Environment: Public Demo Site  
 
