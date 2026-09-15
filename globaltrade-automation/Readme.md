@@ -46,4 +46,4 @@ Tested against GlobalTrade Supply Chain System
 running on GlassFish 7 at http://localhost:8080/globaltrade/
 
 ## Related Repository
-[GlobalTrade Supply Chain System](https://github.com/your-username/globaltrade-supply-chain)
+[GlobalTrade Supply Chain System](https://github.com/Navodya-tech/globaltrade-supply-chain)
